@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tarea2Coursera</string>
+    <string name="nombre_input">Nombre Completo</string>
+    <string name="fecha_input">Fecha de Nacimiento</string>
+    <string name="telefono_input">Télefono</string>
+    <string name="email_input">Email</string>
+    <string name="descripcion_input">Descripción Contacto</string>
+    <string name="boton_texto">Elegir Fecha de Nacimiento</string>
+    <string-array name="meses">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+</resources>
